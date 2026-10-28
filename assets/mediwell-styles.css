@@ -1624,3 +1624,7 @@ img {
     font-size: 1.75rem;
   }
 }
+.kto-controls{display:flex;flex-direction:column;gap:10px;margin-bottom:12px}.kto-meta{font-size:.9rem;color:#567;margin:6px 0 12px}
+.kto-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}.kto-card{background:#fff;border:1px solid #d9efec;border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:6px;box-shadow:0 2px 10px rgba(0,80,80,.05)}
+.kto-card-top{display:flex;justify-content:space-between;gap:6px;font-size:.8rem}.kto-title{font-size:1.05rem;margin:4px 0 0}.kto-ko{color:#789;font-size:.9rem}.kto-addr,.kto-tel{font-size:.85rem;color:#456}.kto-ov{font-size:.85rem;color:#555;margin:4px 0}
+.kto-actions{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto}.kto-actions .btn{padding:6px 12px;font-size:.85rem}.btn-wa{background:#25D366;color:#fff}.price-note{font-size:.85rem;color:#5a6b6b;background:#f3fbfa;border-left:3px solid #81d8d0;padding:8px 12px;margin:12px 0}
