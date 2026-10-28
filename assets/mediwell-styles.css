@@ -1693,3 +1693,4 @@ img {
   .quick-finder-card .finder-actions .btn{padding:9px 6px;font-size:.82rem}
 }
 @media (max-width: 768px){.portal-layout{padding-left:14px!important;padding-right:14px!important}}
+@media (max-width: 768px){.portal-layout{padding-left:0!important;padding-right:0!important}.portal-layout .section-block{padding-left:14px;padding-right:14px}}
